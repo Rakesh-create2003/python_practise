@@ -1,0 +1,16 @@
+linux commands.
+
+command 1: pwd >>>> (presentation working directory)
+
+command 2: uname -a >>>linux bits(for example::Linux rakesh-IdeaPad-3-15ITL05 6.5.0-44-generic #44~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Jun 18 14:36:16 UTC 2 x86_64 x86_64 x86_64 GNU/Linux).
+
+
+command 3: whoami >>>(username showed)
+
+command 4: clear  shortcut(ctrl + L) >>>(erase all commands in terminal)
+
+
+command 5: history (already used command showed)
+
+
+command 6:
