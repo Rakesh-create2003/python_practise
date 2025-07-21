@@ -74,9 +74,9 @@
 #     for row in reader:
 #         print(row["age"])
         
-
-with open("content.csv", "r") as file:
-    lines = file.readlines()
-    for line in lines[1:]:
-        column=(line.strip().split(","))
-        print(column[1])
+#
+# with open("content.csv", "r") as file:
+#     lines = file.readlines()
+#     for line in lines[1:]:
+#         column=(line.strip().split(","))
+#         print(column[1])
